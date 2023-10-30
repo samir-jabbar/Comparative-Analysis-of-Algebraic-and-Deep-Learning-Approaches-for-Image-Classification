@@ -9,7 +9,7 @@ This is the GitHub repository for the research project "Comparative Analysis of 
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Description
 
